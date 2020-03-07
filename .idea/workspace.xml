@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="020428e6-7073-44e2-8b90-76d90e895943" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scss File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1750" />
+    <option name="y" value="16" />
+    <option name="width" value="2092" />
+    <option name="height" value="2094" />
+  </component>
+  <component name="ProjectId" id="1YkE12MsP4Q1JF2mgNOVOkX3Nvg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="C:/ReactWorkBench/ecommerce/node_modules/eslint" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/actions" />
+      <recent name="$PROJECT_DIR$/src/components" />
+      <recent name="$PROJECT_DIR$/src/pages/Login" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\ReactWorkBench\ecommerce\src\components\ProductSlider" />
+      <recent name="C:\ReactWorkBench\ecommerce\src\data" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.build" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="020428e6-7073-44e2-8b90-76d90e895943" name="Default Changelist" comment="" />
+      <created>1551523495441</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551523495441</updated>
+      <workItem from="1551523496846" duration="7020000" />
+      <workItem from="1551544849221" duration="39240000" />
+      <workItem from="1551677285453" duration="127000" />
+      <workItem from="1551677452146" duration="116000" />
+      <workItem from="1551725494804" duration="7346000" />
+      <workItem from="1552070634490" duration="785000" />
+      <workItem from="1552071464919" duration="1882000" />
+      <workItem from="1552110528332" duration="4934000" />
+      <workItem from="1552159819586" duration="1845000" />
+      <workItem from="1552209387669" duration="602000" />
+      <workItem from="1552228612625" duration="2472000" />
+      <workItem from="1552236746721" duration="574000" />
+      <workItem from="1583477974082" duration="6404000" />
+      <workItem from="1583583586146" duration="2340000" />
+    </task>
+    <task id="LOCAL-00001" summary="I've fixed some issues related to css.">
+      <created>1552232148707</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1552232148707</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="I've fixed some issues related to css." />
+    <option name="LAST_COMMIT_MESSAGE" value="I've fixed some issues related to css." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="468" y="172" width="663" height="486" key="find.popup" timestamp="1583585090557">
+      <screen x="0" y="23" width="1600" height="785" />
+    </state>
+    <state x="468" y="172" width="663" height="486" key="find.popup/0.23.1600.785@0.23.1600.785" timestamp="1583585090557" />
+    <state x="456" y="132" width="670" height="676" key="search.everywhere.popup" timestamp="1583585216305">
+      <screen x="0" y="23" width="1600" height="785" />
+    </state>
+    <state x="456" y="132" width="670" height="676" key="search.everywhere.popup/0.23.1600.785@0.23.1600.785" timestamp="1583585216305" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/pages/ShopingCart/ShoppingCart.js</url>
+          <line>30</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/containers/ProductList/ProductList.js</url>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
