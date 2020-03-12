@@ -3,6 +3,8 @@ import {connect} from 'react-redux';
 import {SignUp, login} from '../../actions/user'
 import {TextField} from '../../components/TextField/textField'
 import './login.css';
+import {useQuery} from '@apollo/react-hooks';
+import {getUser} from "../../graphQL/getUser"
 
 const Login = props => {
     const [email, setEmail] = useState('');
